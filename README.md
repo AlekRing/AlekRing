@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![linkedIn](#0A66C2)
+![github](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
