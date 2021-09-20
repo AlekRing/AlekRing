@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Koltcov Oleg, novice at frontend development
+I am Koltcov Oleg, frontend developer
 ***
 
 Languages \
