@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-I am Koltcov Oleg, experienced frontend developer
+My name is Oleg Koltsov, I am a front-end developer with 6 years of experience.
 ***
 
-My cool tiny website:
+Check out my cool tiny website:
 [3d art project](https://oleg-koltcov.vercel.app/village)
 
 Languages \
