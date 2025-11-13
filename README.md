@@ -6,11 +6,11 @@ My name is Oleg Koltsov, I am a front-end developer with 6 years of experience.
 Check out my cool tiny website:
 [3d art project](https://oleg-koltcov.vercel.app/village)
 
-Languages \
+Languages
 
 ![https://github.com/AlekRing/AlekRing/](https://img.shields.io/badge/JavaScript-303030?style=for-the-badge&logo=JavaScript&logoColor=dark)
 ![https://github.com/AlekRing/AlekRing/](https://img.shields.io/badge/TypeScript-303030?style=for-the-badge&logo=TypeScript&logoColor=dark)
 
-🔗 Links \
+🔗 Links
 
-[![https://www.linkedin.com/in/олег-кольцов-23ba6b210/](https://img.shields.io/badge/LinkedIn-368BC1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/олег-кольцов-23ba6b210)
+[![https://www.linkedin.com/in/olegkoltsov/](https://img.shields.io/badge/LinkedIn-368BC1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/olegkoltsov/)
